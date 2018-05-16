@@ -1,0 +1,6 @@
+
+
+public enum Discplins
+{
+   RYGSVØMNING, BRYSTSVØMING, CRAWL, BUTTERFLY, MEDLEY 
+}
