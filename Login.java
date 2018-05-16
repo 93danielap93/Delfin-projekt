@@ -1,7 +1,7 @@
 
 public class Login 
 {  
-   //Dette er vores 3 mulige logins.
+   //Dette er de 3 mulige logins.
    public static boolean authenticate(String username, String password) 
    {
       if(username.equals("formand") && password.equals("formand")) 
